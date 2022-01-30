@@ -21,7 +21,7 @@
 
 7- C:\Users\Satya Prakash Mall\Desktop\Backend\Node-2-Assignment\Node-path
 
-## 8- path.formate(__filename): 
+## 8- path.format(__filename): 
 node:internal/validators:163
       throw new ERR_INVALID_ARG_TYPE(name, 'Object', value);
       ^
